@@ -1,1 +1,1 @@
-# AIPracticeProjects
+# AI hands-on learning
